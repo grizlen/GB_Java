@@ -1,5 +1,6 @@
 package ru.geekbrains.hw2;
 
+//08.02.21
 public class Main {
   public static void main(String[] args) {
     sum4x4(new String[][]{
